@@ -1,0 +1,22 @@
+base_url = "/"
+title = "于镇桂 | 全栈开发者"
+description = "于镇桂的个人博客与作品集，聚焦全栈开发、Rust、TypeScript、Java、跨端工程与开源实践。"
+default_language = "zh"
+compile_sass = true
+build_search_index = false
+
+[markdown]
+
+[markdown.highlighting]
+theme = "catppuccin-mocha"
+
+[extra]
+name = "于镇桂"
+role = "全栈开发者"
+city = "上海"
+email = "ss1178933440@gmail.com"
+phone = "19338823723"
+github = "https://github.com/Super1Windcloud"
+blog = "https://super1windcloud.github.io/blog/"
+telegram = "https://t.me/RIver_Forever7"
+x = "https://x.com/yuyuzhengu34544"

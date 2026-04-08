@@ -1,0 +1,11 @@
+[build]
+command = "zola build"
+publish = "public"
+
+[build.environment]
+ZOLA_VERSION = "0.19.2"
+
+[[redirects]]
+from = "/*"
+to = "/index.html"
+status = 200
